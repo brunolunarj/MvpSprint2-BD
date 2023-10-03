@@ -1,0 +1,101 @@
+tipo_infracao,descricao_infracao,tipo_infrator,tipo_veiculo,data_infracao,hora_infracao,local_rodovia,grav_tipo
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:54,"DF-003 (EPIA) KM 21,1 SENTIDO NORTE  - (ALT. CANDANGOLANDIA) (VIA MARGINAL)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMIONETA,05/07/2023,11:54,DF-025 (EPDB) KM 04 SENTIDO BALAO DO AEROPORTO / DF-003 (EPIA),Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:56,"RODOVIA DF-035 (EPCV), KM 2,8",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:57,DF-025(EPDB-TRECHO DF-035(EPCV)/DF-027(EPJK)) KM 20 SENT. DF-003(EPIA),Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:58,"RODOVIA DF-005 (EPPR), KM 1,5",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHONET,05/07/2023,11:58,"DF-085(EPTG) KM 8,1 SENTIDO DF-001(TAGUATINGA)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,MOTOCICLETA,05/07/2023,11:58,"RODOVIA DF-005 (EPPR), KM 1,7",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,UTILITARIO,05/07/2023,11:59,"DF-085 (EPTG) KM 6,5 VIA MARGINAL - SENTIDO DF-003 (EPIA)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:00,"RODOVIA DF-005 (EPPR), KM 14,3",Média
+7463-0,Transitar em velocidade superior à máxima permitida em mais de 20% até 50%,Condutor,AUTOMOVEL,05/07/2023,12:00,"DF-051(EPGU) KM 0,8 SENTIDO DF-047 (ASA SUL)",Grave
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:00,"DF-480 KM 4,6 SENTIDO GAMA",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:01,"RODOVIA DF-006 (EPCA), KM 1,7",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:02,DF-079 (EPVP) KM 4 - SENTIDO DF-085 (EPTG),Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:03,"DF-004(EPNA) KM 0,9 SENTIDO SUL/NORTE(ENTRONCAMENTO COM A L2 NORTE)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMIONETA,05/07/2023,12:03,"DF-003 (EPIA) KM 21,1 SENTIDO NORTE  - (ALT. CANDANGOLANDIA) (VIA MARGINAL)",Média
+7633-1,Dirigir veículo segurando telefone celular,Condutor,Automóvel,05/07/2023,12:03,DF 001,Gravíssima
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:03,"RODOVIA DF-001 (EPCT), KM 58,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:03,"RODOVIA DF-085 (EPTG) KM 4,3 -",Média
+7633-1,Dirigir veículo segurando telefone celular,Condutor,Caminhão,05/07/2023,12:04,DF 001,Gravíssima
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:04,"DF-003(EPIA-TRECHO EIXO MONUM./DF-095(EPCL))KM 13,7-VIA MARG.,SENT.SUL(DF-095)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:04,"RODOVIA DF-085 (EPTG) KM 4,3 -",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:05,DF-004(EPNA) KM 7 SENTIDO SUL/NORTE(PROXIMO AO IATE),Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHONET,05/07/2023,12:06,"DF-003 (EPIA) KM 21,1 SENTIDO NORTE  - (ALT. CANDANGOLANDIA) (VIA MARGINAL)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:07,"DF-002 (EIXAO NORTE) KM 5,8 SENTIDO RODOVIARIA",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:08,"DF-002 (EIXAO SUL) KM 8,6 SENT. AEROPORTO",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHONETE,05/07/2023,12:08,"RODOVIA DF-150, KM 4,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,MOTONETA,05/07/2023,12:08,"RODOVIA DF-035 (EPCV), KM 2,8",Média
+5690-0,Transitar na faixa/pista da esquerda regul circulação exclusiva determ veículo,Condutor,AUTOMOVEL,05/07/2023,12:08,"DF-085 (EPTG) KM 1,8 SENTIDO DF-003 (PLANO PILOTO)",Grave
+7633-1,Dirigir veículo segurando telefone celular,Condutor,Automóvel,05/07/2023,12:08,DF 001,Gravíssima
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:10,DF-003 (EPIA) KM 7 SENTIDO SUL (ENTRE B. TORTO E PQ. AGUA MINERAL),Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:10,"RODOVIA DF-085 (EPTG) KM 4,3 -",Média
+7633-1,Dirigir veículo segurando telefone celular,Condutor,Automóvel,05/07/2023,12:10,DF 001,Gravíssima
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHONETE,05/07/2023,12:10,"RODOVIA DF-001 (EPCT), KM 58,6",Média
+5185-1,Deixar o condutor de usar o cinto segurança,Condutor,Automóvel,05/07/2023,12:11,DF 001,Grave
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHAO,05/07/2023,12:12,"RODOVIA DF-005 (EPPR), KM 3,1",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:12,"DF-003 (EPIA) KM 21,1 SENTIDO NORTE  - (ALT. CANDANGOLANDIA) (VIA MARGINAL)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,ONIBUS,05/07/2023,12:13,"RODOVIA DF-001 (EPCT), KM 58,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,MOTOCICLETA,05/07/2023,12:13,"RODOVIA DF-150, KM 4,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,UTILITARIO,05/07/2023,12:13,"DF-075 (EPNB) KM 1,1 SENTIDO DF-003 (EPIA)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,12:13,"RODOVIA DF-005 (EPPR), KM 1,5",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,22:48,"RODOVIA DF-001 (EPCT), KM 58,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,22:50,"DF-075 (EPNB) KM 0,5 SENTIDO SAMAMBAIA",Média
+7463-0,Transitar em velocidade superior à máxima permitida em mais de 20% até 50%,Condutor,AUTOMOVEL,02/07/2023,22:53,"DF-075 (EPNB) KM 1,1 SENTIDO DF-003 (EPIA)",Grave
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,22:53,"DF-085 (EPTG)-KM 10,1 SENTIDO DF-003(EPIA)/PLANO PILOTO",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,22:54,"RODOVIA DF-150, KM 4,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,22:56,"RODOVIA DF-150, KM 4,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,22:56,DF-075(EPNB)KM 02 SENTIDO N. BANDEIRANTE,Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,22:58,"DF-003(EPIA) KM 25,8 SENTIDO SUL",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHONET,02/07/2023,22:59,"DF-075 (EPNB) KM 0,5 SENTIDO SAMAMBAIA",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,22:59,"DF-075 (EPNB) KM 2,5 SENT. N. BAND / RIACHO FUNDO",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:00,"DF-079 (EPVP) KM 3,6 - SENTIDO DF-075 (EPNB)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:00,DF-079 (EPVP) KM 1 - SENTIDO DF-085 (EPTG),Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHONETE,02/07/2023,23:00,"RODOVIA DF-001 (EPCT), KM 58,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:02,"DF-025(EPDB)KM 13,7 SENTIDO BARRAGEM PARANOA",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:02,"RODOVIA DF-290 KM 27,5",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:02,"DF-003(EPIA) KM 25,8 SENTIDO SUL",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:03,"RODOVIA DF-005 (EPPR), KM 2,8",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:04,"RODOVIA DF-150, KM 4,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:04,"DF-075 (EPNB) KM 2,4 SENT. N. BAND / EPIA (DF-003)",Média
+7463-0,Transitar em velocidade superior à máxima permitida em mais de 20% até 50%,Condutor,AUTOMOVEL,02/07/2023,23:05,"RODOVIA DF-001 (EPCT), KM 58,6",Grave
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,UTILITARIO,02/07/2023,23:05,"RODOVIA DF-001 (EPCT), KM 58,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:05,"RODOVIA DF-001 (EPCT), KM 58,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:06,"RODOVIA DF-001 (EPCT), KM 58,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:07,"DF-075 (EPNB) KM 0,5 SENTIDO SAMAMBAIA",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,UTILITARIO,02/07/2023,23:07,"DF-075 (EPNB) KM 0,5 SENTIDO SAMAMBAIA",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHONETE,02/07/2023,23:07,"RODOVIA DF-001 (EPCT), KM 67,1",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHAO,02/07/2023,23:10,"DF-085 (EPTG) KM 6,7 VIA PRINCIPAL - SENTIDO TAGUATINGA",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:10,"RODOVIA DF-001 (EPCT), KM 58,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:11,"DF-003(EPIA) KM 25,8 SENTIDO NORTE",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:11,"DF-025 (EPDB) KM 4,6 SENTIDO BARRAGEM DO PARANOA",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHAO,02/07/2023,23:11,"RODOVIA DF-001 (EPCT), KM 60,7",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMIONETA,02/07/2023,23:12,"RODOVIA DF-079 (EPVP), KM 2,7",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMIONETA,02/07/2023,23:13,"DF-002(EIXO SUL) KM 12,1 SENTIDO RODOVIARIA",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:13,"RODOVIA DF-001 (EPCT), KM 58,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHONETE,02/07/2023,23:13,"RODOVIA DF-290 KM 26,4",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHAO,02/07/2023,23:14,"RODOVIA DF-001 (EPCT), KM 64,0",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:14,"DF-002 KM 6,8 (ENTRADA BURACO TATU) SENTIDO SUL",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:16,"RODOVIA DF-001 (EPCT), KM 64,0",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHAO,02/07/2023,23:16,"RODOVIA DF-001 (EPCT), KM 60,7",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:17,"RODOVIA DF-001 (EPCT), KM 64,0",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,02/07/2023,23:17,"RODOVIA DF-001 (EPCT), KM 64,2",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHONETE,05/07/2023,11:13,"RODOVIA DF-150, KM 4,6",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:14,"DF-003 (EPIA) KM 21,0 SENTIDO SUL",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:14,"DF-085 (EPTG) KM 6,5 VIA MARGINAL - SENTIDO DF-003 (EPIA)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:15,DF-003(EPIA) KM 29 SENTIDO NORTE,Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:15,"RODOVIA DF-004 (EPNA), KM 10,3",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:15,"DF-027 (EPJK) KM 0,7 SENTIDO PONTE JK",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:15,"RODOVIA DF-005 (EPPR), KM 2,8",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHAO,05/07/2023,11:15,"DF-001 EPCT (TRECHO  BR-040 Á DF-480), KM 55,8 (BALÃO DO GAMA)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:15,"RODOVIA DF-085 (EPTG) KM 4,3 -",Média
+5681-0,Transitar na faixa/pista da direita regul circulação exclusiva determ veículo,Condutor,AUTOMOVEL,05/07/2023,11:16,"DF-075 (EPNB) KM 2,5 SENT. N. BAND / RIACHO FUNDO",Leve
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:16,"DF-150 KM 1,7 SENTIDO SOBRADINHO II",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHONET,05/07/2023,11:17,"DF-003(EPIA) KM 4,2 SENTIDO NORTE (BALAO COLORADO)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHAO,05/07/2023,11:17,"DF-075 (EPNB) KM 1,1 SENTIDO DF-003 (EPIA)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:17,"RODOVIA DF-085 (EPTG) KM 4,3 -",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:18,"DF-085 (EPTG) KM1,8 SENTIDO DF-003 (P. PILOTO - VIA MARGINAL)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,AUTOMOVEL,05/07/2023,11:18,"RODOVIA DF-079 (EPVP), KM 2,7",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,REBOQUE,05/07/2023,11:18,"RODOVIA DF-001 (EPCT), KM 60,7",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,CAMINHONET,05/07/2023,11:19,"DF-085 (EPTG) KM 6,5 VIA MARGINAL - SENTIDO DF-003 (EPIA)",Média
+7455-0,Transitar em velocidade superior à máxima permitida em até 20%,Condutor,MOTONETA,05/07/2023,11:19,"RODOVIA DF-290 KM 28,0",Média
